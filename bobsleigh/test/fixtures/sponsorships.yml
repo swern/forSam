@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  athlete_id: 
+  sponsor_id: 
+
+two:
+  athlete_id: 
+  sponsor_id: 

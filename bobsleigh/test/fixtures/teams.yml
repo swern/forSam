@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nation: MyString
+  size: 1
+  medals: 1
+
+two:
+  nation: MyString
+  size: 1
+  medals: 1
